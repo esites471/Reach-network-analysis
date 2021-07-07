@@ -9,7 +9,7 @@
   },
   "text": {
     "more": "There is a lot of money and interest in resource referral networks (a group of organizations that screen people for unmet essential needs, give referrals to resources, and confirm connections) but most measurement hinges on the assumption that success of a resource can be measured by how often it receives a referral. This measure is also a typical proxy for the strength of a resource network. People with firsthand knowledge administering resource referral programs have suggested that an alternative and better proxy could be the degree to which fields specifying resource information are completed (eg, contact information, details on materials what to bring/when to go/etc). Therefore, we ask this question: could a network analysis with our historic resource referral dataset test whether network strength can be better evaluated (or even differently evaluated) through resource contact field completion vs the number of referrals made? Put differently, does the degree to which the resource has completed contact information fields correspond to the typical measures of resource network strength (# of referrals)?\n\n\n",
-    "intro": "In this network, orange nodes represent Reach desks in the Bay Area. Blue nodes represent resources, and the blue gradient represents the completeness of contact information for that resource in our database (i.e., a dark blue resource has all contact info fields filled out; a light blue resource has very little contact information provided). Referrals from a desk to a resource are represented by arrows, which are weighted by the number of referrals made from 2004 - 2021. Resources are sized by their in-degree, or the number of different desks that have ever made a referral to them. \n\nTo explore more network layouts, follow the links below: \nhttps://www.google.com/ ",
+    "intro": "In this network, orange nodes represent Reach desks in the Bay Area. Blue nodes represent resources, and the blue gradient represents the completeness of contact information for that resource in our database (i.e., a dark blue resource has all contact info fields filled out; a light blue resource has very little contact information provided). Referrals from a desk to a resource are represented by arrows, which are weighted by the number of referrals made from 2004 - 2021. Resources are sized by their in-degree, or the number of different desks that have ever made a referral to them. \n\nTo explore more network layouts, follow the links below:",
     "title": "Health Leads Bay Area Reach Network Analysis"
   },
   "legend": {
@@ -40,7 +40,7 @@
       "defaultLabelSize": 14
     },
     "graphProperties": {
-      "maxEdgeSize": 25,
+      "maxEdgeSize": 20,
       "minEdgeSize": 2,
       "minNodeSize": 1,
       "maxNodeSize": 7
