@@ -14,8 +14,8 @@
   },
   "legend": {
     "edgeLabel": "Number of referrals",
-    "colorLabel": "Completeness of contact information",
-    "nodeLabel": "Bay Area Reach desks and resources"
+    "colorLabel": "Resources, colored by completeness of contact information",
+    "nodeLabel": "Bay Area Reach desks"
   },
   "features": {
     "search": true,
